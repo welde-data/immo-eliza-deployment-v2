@@ -1,14 +1,7 @@
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="streamlit_app/assets/python.png" width="32%" alt="Python" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
-    <img src="streamlit_app/assets/fastapi.png" width="32%" alt="FastAPI" />
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">
-    <img src="streamlit_app/assets/streamlit.png" width="32%" alt="Streamlit" />
-  </a>
-</p>
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-v0.100+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-v1.25+-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 
 # Real Estate Price Prediction (Belgium) — Immo Eliza
 
